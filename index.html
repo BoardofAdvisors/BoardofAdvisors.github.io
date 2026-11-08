@@ -367,6 +367,11 @@ footer{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--hair);font-si
 .hero h1.thesis-head .o::before,.hero h1.thesis-head .g::before{content:none!important}
 .hero .tag#dateline-tag{text-align:center!important}
 @media (max-width:600px){.hero h1.thesis-head span{white-space:normal!important}.hero h1.thesis-head{font-size:16px!important}}
+
+/* V147 (MDC): Support = third button on the right; footer resources row = three equal buttons on every width */
+.ctas.res#res{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+.ctas.res#res a.lnk:last-child,.ctas a.lnk:last-child:nth-child(odd){grid-column:auto!important}
+@media (max-width:600px){.ctas.res#res{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:6px!important}.ctas.res#res a.lnk{padding:8px 4px!important}.ctas.res#res a.lnk .lbl{font-size:12px!important;letter-spacing:.8px!important}}
 </style>
 </head>
 <body>
