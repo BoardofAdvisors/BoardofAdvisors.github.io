@@ -1,0 +1,1798 @@
+{
+  "config": {
+    "event": "BA Q4 Summit 2026",
+    "venue": "The Ritz-Carlton Dallas, Las Colinas",
+    "dates": "Nov 9-13, 2026",
+    "year": "11-Year Anniversary",
+    "hero": {
+      "title": "Q4 Agenda · Nov 9–13 · The Ritz‑Carlton Dallas",
+      "promise": "",
+      "sub": "",
+      "exitLine": "",
+      "head": "BA Builds Exit‑Ready CEOs. / Proven EXIT-TRACK Formula. / Graduates EXIT CEOs to Advisors."
+    },
+    "invite": {
+      "label": "Make an Invite",
+      "href": "https://www.bainvite.com",
+      "text": "BAInvite.com"
+    },
+    "contact": "Team@BoardofAdvisors.com",
+    "footer": "Q4 Board · 11-Year Anniversary · Nov 9-13, 2026 · The Ritz-Carlton Dallas, Las Colinas",
+    "days": [
+      {
+        "date": "2026-11-09",
+        "label": "Mon",
+        "long": "Monday, November 9",
+        "theme": "Culture Track",
+        "head": "LEARN OURS.\nBUILD YOURS.",
+        "promise": "Registration at 10. Live stream at noon. Culture Code from 1.",
+        "track": "A culture that runs without you.",
+        "night": "Monday Mix & Mingle, the Ritz lobby bar. The hallway is the fire.",
+        "featured": "Michael King",
+        "featured2": "Jay Doran",
+        "dhLabel": "Double Header",
+        "hours": "10–6",
+        "key": "He turns leadership into clarity, alignment and accountability your team can run.",
+        "blurb": "Nearly 20 years leading organizations and 100-plus teams coached, then TEAMS.Coach to bring that rigor to executive teams. A repeatable method, with AI that sharpens judgment instead of replacing it. Monday he opens the Culture Track with the code your company already runs on.",
+        "key2": "Culture is the system that decides whether your company outgrows you.",
+        "blurb2": "Founder of Culture Matters since 2016, tying purpose, vision and values to performance and profit. Trust, judgment and accountability stay human-led. Monday afternoon he runs the Culture Cubes, two rounds where your table solves the culture puzzle live, then builds its own code to take home.",
+        "head2": "THE CULTURE.\nMAN.",
+        "short": "Culture",
+        "evening": "Monday Night Mix & Mingle · Time to Start Making Moves · Juniper Bar · 6:30 to 9:30",
+        "line": "Win by Design",
+        "tab": "Monday"
+      },
+      {
+        "date": "2026-11-10",
+        "label": "Tue",
+        "long": "Tuesday, November 10",
+        "theme": "Growth Track",
+        "head": "WE GROW.\nTHEN THE LOUNGE.",
+        "promise": "Close more. Come back stronger.",
+        "track": "Built to close, beside Built to Sell.",
+        "night": "The Liquidity Lounge, 6:30 PM. Cocktail attire.",
+        "featured": "Tim Storey",
+        "featured2": "Richard C. Wilson",
+        "dhLabel": "Double Header",
+        "_note": "MDC said \"Monday\" for Storey + Wilson; both speak Tuesday, placed Tuesday [ASSUMPTION]",
+        "hours": "8–6",
+        "key": "He builds platforms that carry a mission beyond any one founder.",
+        "blurb": "From Compton, where he lost his father and his brother young, to one of the most sought-after comeback coaches alive. Author of The Miracle Mentality and Comeback & Beyond, he has walked some of the best-known names in entertainment, sports and business out of their setbacks and back into their calling. Through Lead With Love, Miracle Mentality and Real Storey's he is building an organization that scales without depending on him. Tuesday he delivers the featured keynote at noon, then hosts the Liquidity Lounge that night.",
+        "key2": "Nineteen years inside family office deals, boiled down to ten insights.",
+        "blurb2": "Founder of Family Office Club, the network connecting ultra-wealthy families, their advisors and the founders who raise capital from them. Nineteen years inside the deals, watching a billion dollars of transactions close, and a clear read on what the families actually want from a founder. Tuesday he brings his top ten family office insights to the room: how capital decides, what kills a deal, and how a CEO gets invited back. If your exit needs a buyer with patience and a long memory, this is the hour.",
+        "head2": "THE FAMILY OFFICE KEYNOTE.",
+        "short": "Growth",
+        "evening": "Ladies' Night at the Liquidity Lounge · Cocktail Attire · The Conservatory · 6:30 to 9:30",
+        "line": "Grow by Design",
+        "tab": "Tuesday"
+      },
+      {
+        "date": "2026-11-11",
+        "label": "Wed",
+        "long": "Wednesday, November 11",
+        "theme": "ExitTrack",
+        "head": "THE EXIT TRACK.\nWHY YOU COME.",
+        "promise": "I built the track. He drives it. You ride.",
+        "track": "The track itself.",
+        "night": "A night out together.",
+        "featured": "Roland Frasier",
+        "featured2": "Shawn French",
+        "track2": "The Double Header",
+        "head2": "THE EXIT KEYNOTE.",
+        "dhLabel": "Double Header",
+        "hours": "8–6",
+        "key": "Advisor on 1,000-plus deals. He drives the Exit Track.",
+        "blurb": "Part of exits to KKR, SoftBank and a Blackstone company, after 14 years practicing law for founders. Co-founder of DigitalMarketer and Scalable, host of the Business Lunch podcast, and an advisor on more than a thousand deals. He leads the 36-month Exit Track that moves a CEO from owning a job to owning an asset: the M.A.S.T.E.R. mind, the track, and why it exists. Wednesday is his day.",
+        "key2": "The Determined Society host on what discipline cost him and taught him.",
+        "blurb2": "Built The Determined Society into a platform with millions of listens by asking the hard questions of top names in entertainment, sports and business. LSU baseball, a corporate sales career, and now he answers those questions himself. Wednesday he gives the Exit Keynote, then sits for the Spotlight Podcast double header with Advisor Tim Storey: two parts, two chairs, the questions he usually asks turned on him.",
+        "short": "ExitTrack",
+        "evening": "Chairman-Led Member-to-Member Dinners · Explore the Ritz & Restaurants · 6:30 to 9:30",
+        "line": "Exit by Design",
+        "tab": "Wednesday"
+      },
+      {
+        "date": "2026-11-12",
+        "label": "Thu",
+        "long": "Thursday, November 12",
+        "theme": "Advisory Track",
+        "head": "BUILT TO RUN WITHOUT YOU.",
+        "promise": "Seven phases every business passes through, and the pinch point holding yours.",
+        "track": "Freedom from founder dependency.",
+        "night": "Member Dinners.",
+        "featured": "Ian Taylor",
+        "featured2": "Carl Gould",
+        "dhLabel": "Double Header",
+        "hours": "8–6",
+        "key": "He rewires the identity and decision patterns that cap your performance.",
+        "blurb": "Chief Human Performance Architect embedded with leading NYC fintech firms. His Human Operating System framework and ARISE Method have been used with hundreds of clients, from children to senior executives. Thursday's keynote, The Price of Becoming, is the identity work behind the exit.",
+        "key2": "He finds the pinch point holding your business at its current phase.",
+        "blurb2": "Maps every business through seven phases, from Strategic Planning to Succession, and shows owners which pinch point blocks the next one. His first company doubled every year for seven years. Thursday's workshop, Freedom From Founder Dependency, is the plan to run without you.",
+        "head2": "SEVEN STAGES.\nONE PINCH POINT.",
+        "short": "Advisory",
+        "evening": "The Finish Line Liquidity Event · Laughing to the Bank · Juniper Bar · 6:30 to 9:30",
+        "line": "Life by Design",
+        "tab": "Thursday"
+      },
+      {
+        "date": "2026-11-13",
+        "label": "Fri",
+        "long": "Friday, November 13",
+        "theme": "Exit Brunch",
+        "head": "EVERYONE STAYS TO THE END.",
+        "promise": "The Exit Brunch, 9 to noon. Then golf with Advisor Paul Mattimoe and Advisor David Lucado.",
+        "track": "The Exit Brunch, where the deals get real.",
+        "night": "",
+        "special": "brunch-golf",
+        "hours": "9:30–12",
+        "specialCopy": {
+          "tag1": "BA Brunch",
+          "head1": "EXIT BRUNCH.",
+          "key1": "9:30 to noon, Yellow Rose.",
+          "blurb1": "Mimosas and a champagne toast to the week. Four days of exits on the table, the wins named out loud, and the introductions that pay for the trip, made before anyone heads to the airport. Bring the one deal you came to close. Everyone stays to the end, then we go golfing.",
+          "tag2": "Go golfing",
+          "head2": "LUCRATIVE WITH LUCADO.",
+          "key2": "9:30 until the golf cart battery dies, with Advisor Paul Mattimoe and the Lucrative Advisor David Lucado.",
+          "blurb2": "Big players, BA deals, 18 holes, crushing your goals. With a foursome, it’s all fun under the sun."
+        },
+        "short": "Brunch",
+        "line": "Close by Design",
+        "tab": "Friday"
+      }
+    ],
+    "partLabels": {
+      "morning": "Morning",
+      "lunch": "Lunch",
+      "afternoon": "Afternoon",
+      "evening": "Evening"
+    },
+    "partCuts": {
+      "morning": "< 12:00",
+      "lunch": "12:00-13:29 (Monday has no lunch part: the 12:00 live stream sits in the arrivals block)",
+      "afternoon": "13:30-16:59",
+      "evening": "17:00+"
+    },
+    "legend": [
+      {
+        "key": "member",
+        "label": "Member",
+        "hex": "#E1B075",
+        "ink": "#1A1206"
+      },
+      {
+        "key": "new",
+        "label": "New",
+        "hex": "#D0408F",
+        "ink": "#FFFFFF"
+      },
+      {
+        "key": "anniversary",
+        "label": "Anniversary",
+        "hex": "#4D9B52",
+        "ink": "#FFFFFF"
+      },
+      {
+        "key": "executive",
+        "label": "Executive",
+        "hex": "#000000",
+        "ink": "#FFFFFF"
+      }
+    ],
+    "colorKeyVersion": "V2.00",
+    "dataVersion": "2026-11-08T08:49Z",
+    "sessionCount": 69,
+    "ctas": [
+      {
+        "label": "RSVP Q1",
+        "href": "https://www.RSVPBA.com",
+        "url": "www.RSVPBA.com",
+        "kind": "orange"
+      },
+      {
+        "label": "Rooms Q1",
+        "href": "https://www.BARooms.com",
+        "url": "www.BARooms.com",
+        "kind": "yellow"
+      },
+      {
+        "label": "Referrals",
+        "href": "https://www.BAInvite.com",
+        "url": "www.BAInvite.com",
+        "kind": "gold"
+      },
+      {
+        "label": "EXIT‑TRACK",
+        "href": "https://www.ExitTrack.com",
+        "url": "www.ExitTrack.com",
+        "kind": "exit"
+      }
+    ],
+    "_notes": [
+      "ctas: labels and hrefs come only from this array; an entry with enabled:false is hidden (Ritz Room placeholder).",
+      "advisors[].host:true renders a plain name chip (no \"Advisor\" prefix) and keeps the person out of Advisors of the day.",
+      "sessions[].live:true adds the LIVE pill; pair:true shows both advisor photos on a feature card."
+    ],
+    "urls": [
+      {
+        "t": "www.BoardofAdvisors.com",
+        "h": "https://www.boardofadvisors.com"
+      },
+      {
+        "t": "www.BAInvite.com",
+        "h": "https://www.bainvite.com"
+      },
+      {
+        "t": "www.ExitTrack.com",
+        "h": "https://www.exittrack.com"
+      }
+    ],
+    "coverTitle": "Win by Design",
+    "resources": [
+      {
+        "label": "Mobile App",
+        "href": "https://www.boardofadvisors.app",
+        "url": "www.BoardofAdvisors.app"
+      },
+      {
+        "label": "Login",
+        "href": "https://advisors.boardofadvisors.com",
+        "url": "Advisors.BoardofAdvisors.com"
+      },
+      {
+        "label": "Support",
+        "href": "mailto:team@boardofadvisors.com",
+        "url": "Team@BoardofAdvisors.com"
+      }
+    ],
+    "access": [],
+    "eveningLine": "",
+    "_v150": "V149 + Wednesday morning per MDC (laptop brain 0 ~08:38Z 2026-11-08): Bible Study off Wed; Spotlight Podcast doubleheader 8:45-9:30, Part 1 08:45-09:07 (Storey interviews French), Part 2 09:07-09:30 (French interviews Storey); nothing else; q4-prop-* stay off the members page."
+  },
+  "sessions": [
+    {
+      "id": "q4-sun-welcome",
+      "day": "2026-11-08",
+      "start": "19:00",
+      "end": "21:00",
+      "part": "evening",
+      "title": "Welcome Social",
+      "headline": "",
+      "type": "networking",
+      "room": "Bar Juniper",
+      "advisors": [],
+      "feature": false,
+      "tag": "Social",
+      "sub": "Bar Juniper · 7 to 9"
+    },
+    {
+      "id": "q4-mon-reg",
+      "day": "2026-11-09",
+      "start": "10:00",
+      "end": "13:00",
+      "part": "morning",
+      "title": "Registration",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana Foyer (signing table)",
+      "advisors": [],
+      "feature": false,
+      "tag": "Check-in",
+      "sub": "Signing table · Lantana Foyer"
+    },
+    {
+      "id": "q4-mon-arrivals-networking",
+      "day": "2026-11-09",
+      "start": "11:00",
+      "end": "13:00",
+      "part": "morning",
+      "title": "Networking",
+      "headline": "",
+      "type": "networking",
+      "room": "",
+      "advisors": [],
+      "feature": false,
+      "tag": "Social",
+      "sub": "Find your people before the room opens"
+    },
+    {
+      "id": "q4-mon-storey-live",
+      "day": "2026-11-09",
+      "start": "12:00",
+      "end": "13:00",
+      "part": "morning",
+      "title": "Tim Storey, Live",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Keynote",
+          "photo": "images/portal-tim-storey.png"
+        }
+      ],
+      "feature": true,
+      "sub": "On the big screen before Monday launches at 1",
+      "goldEdge": true,
+      "live": true,
+      "tag": "Live Stream"
+    },
+    {
+      "id": "q4-mon-culture",
+      "day": "2026-11-09",
+      "start": "13:00",
+      "end": "17:00",
+      "part": "afternoon",
+      "title": "BA Culture Code",
+      "headline": "",
+      "type": "workshop",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Workshop",
+      "sub": "The Seven Pillars · Culture Cubes"
+    },
+    {
+      "id": "q4-mon-doran",
+      "day": "2026-11-09",
+      "start": "13:10",
+      "end": "13:30",
+      "part": "afternoon",
+      "title": "Culture Matters",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Jay Doran",
+          "ck": "new",
+          "role": "Talk",
+          "photo": "images/sub-jay-doran.jpg"
+        }
+      ],
+      "feature": true,
+      "tag": "Talk",
+      "sub": "The culture puzzle behind the Culture Cubes"
+    },
+    {
+      "id": "q4-mon-culture-part1",
+      "day": "2026-11-09",
+      "start": "13:30",
+      "end": "15:00",
+      "part": "afternoon",
+      "title": "Culture Cubes · Round 1",
+      "headline": "",
+      "type": "workshop",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Workshop",
+      "sub": "The Seven Pillars · Ratify ours"
+    },
+    {
+      "id": "q4-mon-weintraut-transition",
+      "day": "2026-11-09",
+      "start": "15:00",
+      "end": "15:30",
+      "part": "afternoon",
+      "title": "What VCs Look For",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "John Weintraut",
+          "ck": "member",
+          "role": "Talk"
+        }
+      ],
+      "feature": false,
+      "tag": "Talk",
+      "sub": "When acquiring a company"
+    },
+    {
+      "id": "q4-mon-culture-part2",
+      "day": "2026-11-09",
+      "start": "15:30",
+      "end": "17:00",
+      "part": "afternoon",
+      "title": "Culture Cubes · Round 2",
+      "headline": "",
+      "type": "workshop",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Workshop",
+      "sub": "Build yours"
+    },
+    {
+      "id": "q4-mon-king-keynote",
+      "day": "2026-11-09",
+      "start": "17:00",
+      "end": "17:45",
+      "part": "evening",
+      "title": "Into the Matrix",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Michael King",
+          "ck": "anchor",
+          "role": "Keynote",
+          "photo": "images/sub-michael-king.jpg"
+        }
+      ],
+      "feature": true,
+      "tag": "Keynote",
+      "sub": "Reading the Culture Code · King of Culture"
+    },
+    {
+      "id": "q4-mon-fame-shots",
+      "day": "2026-11-09",
+      "start": "17:50",
+      "end": "18:30",
+      "part": "evening",
+      "title": "Fame Shots",
+      "headline": "",
+      "type": "networking",
+      "room": "Lantana Foyer (fame booth)",
+      "advisors": [
+        {
+          "name": "Michael King",
+          "ck": "anchor",
+          "role": "Host",
+          "photo": "images/sub-michael-king.jpg"
+        },
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Host",
+          "photo": "images/portal-tim-storey.png"
+        },
+        {
+          "name": "Shawn French",
+          "ck": "anchor",
+          "role": "Host",
+          "photo": "images/portal-shawn-french.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Photos",
+      "sub": "With King, Storey and French · Fame booth"
+    },
+    {
+      "id": "q4-mon-toast",
+      "day": "2026-11-09",
+      "start": "18:30",
+      "end": "18:45",
+      "part": "evening",
+      "title": "Champagne Toast",
+      "headline": "",
+      "type": "networking",
+      "room": "Bar Juniper (lobby bar)",
+      "advisors": [],
+      "feature": false,
+      "tag": "Social",
+      "sub": "1 + 1 = 11"
+    },
+    {
+      "id": "q4-mon-mix-mingle",
+      "day": "2026-11-09",
+      "start": "18:30",
+      "end": "21:30",
+      "part": "evening",
+      "title": "Monday Mix & Mingle",
+      "headline": "",
+      "type": "networking",
+      "room": "Bar Juniper (lobby bar)",
+      "advisors": [],
+      "feature": false,
+      "sub": "Time to Start Making Moves",
+      "tag": "Social"
+    },
+    {
+      "id": "q4-tue-pickleball",
+      "day": "2026-11-10",
+      "start": "07:30",
+      "end": "08:30",
+      "part": "morning",
+      "title": "Pickleball Playoffs",
+      "headline": "",
+      "type": "networking",
+      "room": "Nelson Club courts",
+      "advisors": [
+        {
+          "name": "Barry Meyer",
+          "ck": "member",
+          "role": "Host",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Play",
+      "sub": "Nelson Club courts"
+    },
+    {
+      "id": "q4-tue-bible",
+      "day": "2026-11-10",
+      "start": "08:00",
+      "end": "08:45",
+      "part": "morning",
+      "title": "Bible Study",
+      "headline": "",
+      "type": "other",
+      "room": "Carpenter",
+      "advisors": [],
+      "feature": false,
+      "tag": "Morning",
+      "sub": ""
+    },
+    {
+      "id": "q4-newmember-chad-marshall",
+      "day": "2026-11-10",
+      "start": "09:55",
+      "end": "10:00",
+      "part": "morning",
+      "title": "New Member Slot",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Chad Marshall",
+          "ck": "new",
+          "role": "Advisor",
+          "photo": "images/portal-chad-marshall.png"
+        }
+      ],
+      "feature": false,
+      "tag": "New",
+      "sub": "Fuse Fabrication"
+    },
+    {
+      "id": "q4-tue-interviews-am",
+      "day": "2026-11-10",
+      "start": "09:55",
+      "end": "10:15",
+      "part": "morning",
+      "title": "New Member Interviews",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Dillon England",
+          "ck": "member",
+          "role": "Interview",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "New",
+      "sub": ""
+    },
+    {
+      "id": "q4-tue-interviews-pm",
+      "day": "2026-11-10",
+      "start": "10:15",
+      "end": "10:40",
+      "part": "morning",
+      "title": "Anniversary Interviews",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "John New",
+          "ck": "member",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Jabeen Zaidi",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Tucker Bern",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Matthew Chang",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Robert Nickell",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": "images/portal-robert-nickell.png"
+        },
+        {
+          "name": "Ty Crandall",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Anniversary",
+      "sub": ""
+    },
+    {
+      "id": "q4-tue-special",
+      "day": "2026-11-10",
+      "start": "10:40",
+      "end": "11:30",
+      "part": "morning",
+      "title": "Going Before the Board",
+      "headline": "",
+      "type": "workshop",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Board",
+      "sub": "One Ask. One Give."
+    },
+    {
+      "id": "q4-tue-story",
+      "day": "2026-11-10",
+      "start": "11:30",
+      "end": "12:15",
+      "part": "morning",
+      "title": "Featured Keynote",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Talk",
+          "photo": "images/portal-tim-storey.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Keynote",
+      "sub": "A business that outlasts its founder"
+    },
+    {
+      "id": "q4-tue-lunch",
+      "day": "2026-11-10",
+      "start": "12:30",
+      "end": "13:45",
+      "part": "lunch",
+      "title": "VIP Lunch",
+      "headline": "",
+      "type": "meal",
+      "room": "Carpenter",
+      "advisors": [],
+      "feature": false,
+      "tag": "Lunch",
+      "sub": "First class, first in line, first for dessert"
+    },
+    {
+      "id": "q4-tue-slot-lunch",
+      "day": "2026-11-10",
+      "start": "12:45",
+      "end": "13:15",
+      "part": "lunch",
+      "title": "Lunch Keynote",
+      "headline": "",
+      "type": "keynote",
+      "room": "Carpenter",
+      "advisors": [
+        {
+          "name": "Forrest Hayes",
+          "ck": "member",
+          "role": "Keynote",
+          "photo": "images/portal-forrest-hayes.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Keynote",
+      "sub": "Chang Robotics"
+    },
+    {
+      "id": "q4-tue-book-signing",
+      "day": "2026-11-10",
+      "start": "12:45",
+      "end": "13:45",
+      "part": "lunch",
+      "title": "Book Signing",
+      "headline": "",
+      "type": "networking",
+      "room": "Lantana Foyer (signing table)",
+      "advisors": [
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Book signing",
+          "photo": "images/portal-tim-storey.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Signing",
+      "sub": "Lantana Foyer"
+    },
+    {
+      "id": "q4-tue-spotlight",
+      "day": "2026-11-10",
+      "start": "13:35",
+      "end": "13:55",
+      "part": "afternoon",
+      "title": "Member Spotlight · Growth",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Jason Matthews",
+          "ck": "anniversary",
+          "role": "Spotlight",
+          "photo": "images/portal-jason-matthews.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Spotlight",
+      "sub": "One of our own"
+    },
+    {
+      "id": "q4-tue-keynote",
+      "day": "2026-11-10",
+      "start": "14:00",
+      "end": "14:30",
+      "part": "afternoon",
+      "title": "Built to Close",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Tommy Procopovich",
+          "ck": "anchor",
+          "role": "Keynote",
+          "photo": "images/portal-tommy-procopovich.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Special Session",
+      "sub": "The Andy Elliott Army's iron fist in a velvet glove"
+    },
+    {
+      "id": "q4-tue-brit",
+      "day": "2026-11-10",
+      "start": "14:30",
+      "end": "14:50",
+      "part": "afternoon",
+      "title": "Investor Talk",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Brittany Arnason",
+          "ck": "new",
+          "role": "Talk",
+          "photo": "images/portal-brittany-arnason.jpg"
+        }
+      ],
+      "feature": true,
+      "tag": "Talk",
+      "sub": "If I left the project, the project stopped"
+    },
+    {
+      "id": "q4-tue-bear-nickell",
+      "day": "2026-11-10",
+      "start": "14:50",
+      "end": "15:10",
+      "part": "afternoon",
+      "title": "Member Spotlight · The Exit",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Robert Nickell",
+          "ck": "anniversary",
+          "role": "Spotlight",
+          "photo": "images/portal-robert-nickell.png"
+        }
+      ],
+      "feature": true,
+      "goldEdge": true,
+      "tag": "Spotlight",
+      "sub": "Fresh off a major exit · the Exit Track, lived"
+    },
+    {
+      "id": "q4-tue-wilson",
+      "day": "2026-11-10",
+      "start": "15:10",
+      "end": "15:30",
+      "part": "afternoon",
+      "title": "Top 10 Family Office Insights",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Richard C. Wilson",
+          "ck": "anchor",
+          "role": "Keynote",
+          "photo": "images/portal-richard-wilson.png"
+        }
+      ],
+      "feature": true,
+      "goldEdge": true,
+      "tag": "Keynote",
+      "sub": "19 years inside a billion dollars of deals"
+    },
+    {
+      "id": "q4-tue-norton-gecko",
+      "day": "2026-11-10",
+      "start": "15:30",
+      "end": "15:50",
+      "part": "afternoon",
+      "title": "Gecko Robotics",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Chris Norton",
+          "ck": "anniversary",
+          "role": "Spotlight",
+          "photo": "images/portal-chris-norton.png"
+        }
+      ],
+      "feature": true,
+      "sub": "Navy quadrupled the contract · Anduril signed next",
+      "tag": "Spotlight"
+    },
+    {
+      "id": "q4-wed-keynote",
+      "day": "2026-11-10",
+      "start": "17:00",
+      "end": "17:30",
+      "part": "evening",
+      "title": "End-of-Day Keynote",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Ryan Deiss",
+          "ck": "anchor",
+          "role": "Keynote",
+          "photo": "images/portal-ryan-deiss.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Keynote",
+      "sub": "Then we walk to the Lounge together"
+    },
+    {
+      "id": "q4-tue-slot-eod",
+      "day": "2026-11-10",
+      "start": "17:20",
+      "end": "17:50",
+      "part": "evening",
+      "title": "End-of-Day Keynote",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "George Rivera",
+          "ck": "anniversary",
+          "role": "Keynote",
+          "photo": "images/portal-george-rivera.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Keynote",
+      "sub": "7 Figure Supplements"
+    },
+    {
+      "id": "q4-tue-vip",
+      "day": "2026-11-10",
+      "start": "18:30",
+      "end": "21:30",
+      "part": "evening",
+      "title": "The Liquidity Lounge",
+      "headline": "",
+      "type": "vip",
+      "room": "Conservatory & Social Club",
+      "advisors": [
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Host",
+          "photo": "images/portal-tim-storey.png"
+        }
+      ],
+      "feature": false,
+      "sub": "Ladies' Night · Cocktail Attire · with Tim Storey",
+      "tag": "VIP"
+    },
+    {
+      "id": "q4-tue-recognition",
+      "day": "2026-11-10",
+      "start": "19:00",
+      "end": "19:15",
+      "part": "evening",
+      "title": "Honors Moment",
+      "headline": "",
+      "type": "talk",
+      "room": "Conservatory & Social Club",
+      "advisors": [
+        {
+          "name": "Jerry Conti",
+          "ck": "member",
+          "role": "Talk",
+          "photo": ""
+        },
+        {
+          "name": "Cheryl Conner",
+          "ck": "member",
+          "role": "Talk",
+          "photo": ""
+        },
+        {
+          "name": "Jed Morley",
+          "ck": "member",
+          "role": "Talk",
+          "photo": ""
+        },
+        {
+          "name": "Dima Semensky",
+          "ck": "member",
+          "role": "Talk",
+          "photo": ""
+        },
+        {
+          "name": "Raul Luna",
+          "ck": "anniversary",
+          "role": "Talk",
+          "photo": "images/portal-raul-luna.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Honors",
+      "sub": "Member recognition at the VIP"
+    },
+    {
+      "id": "q4-wed-pickleball",
+      "day": "2026-11-11",
+      "start": "07:30",
+      "end": "08:30",
+      "part": "morning",
+      "title": "Pickleball Playoffs",
+      "headline": "",
+      "type": "networking",
+      "room": "Nelson Club courts",
+      "advisors": [
+        {
+          "name": "Barry Meyer",
+          "ck": "member",
+          "role": "Host",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Play",
+      "sub": "Nelson Club courts"
+    },
+    {
+      "id": "q4-wed-podcast-storey-french",
+      "day": "2026-11-11",
+      "start": "08:45",
+      "end": "09:07",
+      "part": "morning",
+      "title": "Spotlight Podcast · Part 1",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Interview",
+          "photo": "images/portal-tim-storey.png"
+        },
+        {
+          "name": "Shawn French",
+          "ck": "anchor",
+          "role": "Interview",
+          "photo": "images/portal-shawn-french.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Podcast",
+      "sub": "Tim Storey interviews Shawn French"
+    },
+    {
+      "id": "q4-wed-podcast-part2",
+      "day": "2026-11-11",
+      "start": "09:07",
+      "end": "09:30",
+      "part": "morning",
+      "title": "Spotlight Podcast · Part 2",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Shawn French",
+          "ck": "anchor",
+          "role": "Interview",
+          "photo": "images/portal-shawn-french.png"
+        },
+        {
+          "name": "Tim Storey",
+          "ck": "anchor",
+          "role": "Interview",
+          "photo": "images/portal-tim-storey.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Podcast",
+      "sub": "Shawn French interviews Tim Storey"
+    },
+    {
+      "id": "q4-tue-blood-draw",
+      "day": "2026-11-11",
+      "start": "09:00",
+      "end": "13:00",
+      "part": "morning",
+      "title": "Blood Draw",
+      "headline": "",
+      "type": "other",
+      "room": "",
+      "advisors": [
+        {
+          "name": "Ben Lee",
+          "ck": "member",
+          "role": "Advisor",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Special",
+      "sub": "With Advisor Ben Lee · 9 to 1"
+    },
+    {
+      "id": "q4-wed-interviews-am",
+      "day": "2026-11-11",
+      "start": "10:15",
+      "end": "10:35",
+      "part": "morning",
+      "title": "New Member Interviews",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Ryan Higgins",
+          "ck": "member",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Lee Ferry",
+          "ck": "member",
+          "role": "Interview",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "New",
+      "sub": ""
+    },
+    {
+      "id": "q4-wed-interviews-pm",
+      "day": "2026-11-11",
+      "start": "10:35",
+      "end": "11:00",
+      "part": "morning",
+      "title": "Anniversary Interviews",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Hugo Jimenez",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Randy Hill",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Gene Eidelman",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Brian McDermott",
+          "ck": "member",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Christopher Wantlin",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Mike Weiss",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "AJ Aluthwala",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Anniversary",
+      "sub": ""
+    },
+    {
+      "id": "q4-wed-special",
+      "day": "2026-11-11",
+      "start": "11:00",
+      "end": "11:55",
+      "part": "morning",
+      "title": "Going Before the Board",
+      "headline": "",
+      "type": "workshop",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Board",
+      "sub": "One Ask. One Give."
+    },
+    {
+      "id": "q4-wed-frasier-a",
+      "day": "2026-11-11",
+      "start": "11:55",
+      "end": "12:25",
+      "part": "morning",
+      "title": "M&A.S.T.E.R Mind",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Roland Frasier",
+          "ck": "anchor",
+          "role": "Talk",
+          "photo": "images/portal-roland-frasier.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Special Feature",
+      "sub": "An asset pays you whether you show up or not"
+    },
+    {
+      "id": "q4-wed-patty-interview",
+      "day": "2026-11-11",
+      "start": "14:40",
+      "end": "15:10",
+      "part": "afternoon",
+      "title": "Interview",
+      "headline": "",
+      "type": "other",
+      "room": "Pecos River",
+      "advisors": [
+        {
+          "name": "Dr. Patty Ann Tublin",
+          "ck": "member",
+          "role": "Interview",
+          "photo": "images/portal-dr-patty-ann-tublin.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Interview",
+      "sub": "Pecos River"
+    },
+    {
+      "id": "q4-wed-lunch",
+      "day": "2026-11-11",
+      "start": "12:30",
+      "end": "13:45",
+      "part": "lunch",
+      "title": "VIP Lunch",
+      "headline": "",
+      "type": "meal",
+      "room": "Carpenter",
+      "advisors": [],
+      "feature": false,
+      "tag": "Lunch",
+      "sub": "First class, first in line, first for dessert"
+    },
+    {
+      "id": "q4-wed-book-signing",
+      "day": "2026-11-11",
+      "start": "12:45",
+      "end": "13:45",
+      "part": "lunch",
+      "title": "Book Signing",
+      "headline": "",
+      "type": "networking",
+      "room": "Lantana Foyer (signing table)",
+      "advisors": [
+        {
+          "name": "Shawn French",
+          "ck": "anchor",
+          "role": "Book signing",
+          "photo": "images/portal-shawn-french.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Signing",
+      "sub": "Lantana Foyer"
+    },
+    {
+      "id": "q4-wed-spotlight",
+      "day": "2026-11-11",
+      "start": "13:35",
+      "end": "13:55",
+      "part": "afternoon",
+      "title": "Member Spotlight · Exit",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Danny Feldman",
+          "ck": "member",
+          "role": "Spotlight",
+          "photo": "images/portal-daniel-feldman.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Spotlight",
+      "sub": "Chief Of AI"
+    },
+    {
+      "id": "q4-wed-french",
+      "day": "2026-11-11",
+      "start": "13:50",
+      "end": "14:10",
+      "part": "afternoon",
+      "title": "Featured Keynote",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Shawn French",
+          "ck": "anchor",
+          "role": "Talk",
+          "photo": "images/portal-shawn-french.png"
+        }
+      ],
+      "feature": true,
+      "tag": "Keynote",
+      "sub": "Trust, discipline and the business of staying determined"
+    },
+    {
+      "id": "q4-wed-corbin-cowan",
+      "day": "2026-11-11",
+      "start": "14:10",
+      "end": "14:40",
+      "part": "afternoon",
+      "title": "Corbin Cowan + E2",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Corbin Cowan",
+          "ck": "anchor",
+          "role": "Talk",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Talk",
+      "sub": "With Daniel Cunningham, Owner"
+    },
+    {
+      "id": "q4-wed-chad-marshall",
+      "day": "2026-11-11",
+      "start": "14:40",
+      "end": "15:00",
+      "part": "afternoon",
+      "title": "Member Spotlight",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Chad Marshall",
+          "ck": "new",
+          "role": "Spotlight",
+          "photo": "images/portal-chad-marshall.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Spotlight",
+      "sub": "Fuse Fabrication"
+    },
+    {
+      "id": "q4-thu-mcnally-mats",
+      "day": "2026-11-12",
+      "start": "07:00",
+      "end": "08:15",
+      "part": "morning",
+      "title": "A Morning on the Mats",
+      "headline": "",
+      "type": "networking",
+      "room": "Octagon MMA · 124 Leslie St, Dallas (off-site)",
+      "advisors": [
+        {
+          "name": "Brian McNally",
+          "ck": "member",
+          "role": "Host",
+          "photo": "images/portal-brian-mcnally.png"
+        },
+        {
+          "name": "Mitt Man Manny",
+          "ck": "member",
+          "role": "Host",
+          "photo": "",
+          "host": true
+        },
+        {
+          "name": "Ryan Benoit",
+          "ck": "member",
+          "role": "Host",
+          "photo": "",
+          "host": true
+        }
+      ],
+      "feature": false,
+      "image": "images/mcnally-mats.jpg",
+      "memberText": "Advisor Brian McNally hosts A Morning on the Mats at Octagon MMA, Thursday 7:00-8:15 AM: boxing, jiu-jitsu and MMA basics with the pros, practical self-defense built for first-timers. Technique-focused, no hard sparring, all levels welcome. Coaches: Mitt Man Manny (pro combat coach; corners and camps for UFC, PFL, BKFC and Showtime Boxing) and Ryan 'Baby Face' Benoit (UFC flyweight veteran, eight career knockouts, fights out of Dallas). Ride leaves the Ritz lobby at 6:30 AM; back with time to shower before brunch. No fee: make a donation to The Boru Fund at brianmcnally.com/boru instead. Wear athletic shorts or joggers (no zippers), a fitted tee or rash guard, sneakers for warm-up, bring a water bottle and towel, jewelry off. A short liability waiver is signed on arrival. To get on the ride, text Brian: his number is in your agenda email.",
+      "tag": "Off-site",
+      "sub": "Boxing, jiu-jitsu, MMA basics · first-timers welcome · ride 6:30 AM, lobby"
+    },
+    {
+      "id": "q4-thu-pickleball",
+      "day": "2026-11-12",
+      "start": "07:30",
+      "end": "08:30",
+      "part": "morning",
+      "title": "Pickleball Playoffs",
+      "headline": "",
+      "type": "networking",
+      "room": "Nelson Club courts",
+      "advisors": [
+        {
+          "name": "Barry Meyer",
+          "ck": "member",
+          "role": "Host",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Play",
+      "sub": "Nelson Club courts"
+    },
+    {
+      "id": "q4-thu-bible",
+      "day": "2026-11-12",
+      "start": "08:00",
+      "end": "08:45",
+      "part": "morning",
+      "title": "Bible Study",
+      "headline": "",
+      "type": "other",
+      "room": "Carpenter",
+      "advisors": [],
+      "feature": false,
+      "tag": "Morning",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-brunch",
+      "day": "2026-11-12",
+      "start": "09:00",
+      "end": "11:00",
+      "part": "morning",
+      "title": "Thursday Brunch",
+      "headline": "",
+      "type": "meal",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Brunch",
+      "sub": "With Carl Gould's workshop"
+    },
+    {
+      "id": "q4-thu-keynote-gould",
+      "day": "2026-11-12",
+      "start": "09:30",
+      "end": "11:00",
+      "part": "morning",
+      "title": "Freedom From Founder Dependency",
+      "headline": "",
+      "type": "workshop",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Carl Gould",
+          "ck": "anniversary",
+          "role": "Workshop",
+          "photo": "images/sub-carl-gould.jpg"
+        }
+      ],
+      "feature": true,
+      "handout": {
+        "title": "The seven phases of business success",
+        "phases": [
+          [
+            "1",
+            "Strategic Planning",
+            "A dream is born"
+          ],
+          [
+            "2",
+            "Specialty",
+            "A job is born"
+          ],
+          [
+            "3",
+            "Synergy",
+            "A sandbox is born"
+          ],
+          [
+            "4",
+            "Systems",
+            "A true business is born"
+          ],
+          [
+            "5",
+            "Sustainability",
+            "A franchise is born"
+          ],
+          [
+            "6",
+            "Salability",
+            "An asset is born"
+          ],
+          [
+            "7",
+            "Succession",
+            "A legacy is born"
+          ]
+        ]
+      },
+      "tag": "Workshop",
+      "sub": "Seven phases, one pinch point"
+    },
+    {
+      "id": "q4-thu-interviews-am",
+      "day": "2026-11-12",
+      "start": "11:00",
+      "end": "11:20",
+      "part": "morning",
+      "title": "New Member Interviews",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Robert Creamer",
+          "ck": "member",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Arthur Taylor",
+          "ck": "new",
+          "role": "Interview",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "New",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-interviews-pm",
+      "day": "2026-11-12",
+      "start": "11:20",
+      "end": "11:50",
+      "part": "morning",
+      "title": "Anniversary Interviews",
+      "headline": "",
+      "type": "other",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Abby Knowles",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Eric Zwigart",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        },
+        {
+          "name": "Erik Nordstrom",
+          "ck": "anniversary",
+          "role": "Interview",
+          "photo": ""
+        }
+      ],
+      "feature": false,
+      "tag": "Anniversary",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-rwanda",
+      "day": "2026-11-12",
+      "start": "11:50",
+      "end": "12:00",
+      "part": "morning",
+      "title": "Advisor from Rwanda",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Talk",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-keynote",
+      "day": "2026-11-12",
+      "start": "12:00",
+      "end": "12:20",
+      "part": "lunch",
+      "title": "The Price of Becoming",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Ian Taylor",
+          "ck": "anchor",
+          "role": "Keynote",
+          "photo": "images/sub-ian-taylor.jpg"
+        }
+      ],
+      "feature": true,
+      "sub": "The Human Operating System",
+      "tag": "Keynote"
+    },
+    {
+      "id": "q4-thu-lunch",
+      "day": "2026-11-12",
+      "start": "12:30",
+      "end": "13:45",
+      "part": "lunch",
+      "title": "VIP Lunch",
+      "headline": "",
+      "type": "meal",
+      "room": "Carpenter",
+      "advisors": [],
+      "feature": false,
+      "tag": "Lunch",
+      "sub": "First class, first in line, first for dessert"
+    },
+    {
+      "id": "q4-thu-slot-lunch",
+      "day": "2026-11-12",
+      "start": "12:45",
+      "end": "13:15",
+      "part": "lunch",
+      "title": "Lunch Keynote",
+      "headline": "",
+      "type": "keynote",
+      "room": "Carpenter",
+      "advisors": [
+        {
+          "name": "Dr. Patty Ann Tublin",
+          "ck": "member",
+          "role": "Keynote",
+          "photo": "images/portal-dr-patty-ann-tublin.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Keynote",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-slot-afterlunch",
+      "day": "2026-11-12",
+      "start": "13:50",
+      "end": "14:20",
+      "part": "afternoon",
+      "title": "After-Lunch Keynote",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Richard Kenny",
+          "ck": "anniversary",
+          "role": "Keynote",
+          "photo": "images/portal-richard-kenny.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Keynote",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-spotlight",
+      "day": "2026-11-12",
+      "start": "14:20",
+      "end": "14:40",
+      "part": "afternoon",
+      "title": "Member Spotlight · Advisory",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Raul Luna",
+          "ck": "anniversary",
+          "role": "Spotlight",
+          "photo": "images/portal-raul-luna.png"
+        }
+      ],
+      "feature": false,
+      "tag": "Spotlight",
+      "sub": "One of our own"
+    },
+    {
+      "id": "q4-thu-buddy-award",
+      "day": "2026-11-12",
+      "start": "16:55",
+      "end": "17:00",
+      "part": "afternoon",
+      "title": "Best BA Buddy Award",
+      "headline": "",
+      "type": "talk",
+      "room": "Lantana",
+      "advisors": [],
+      "feature": false,
+      "tag": "Award",
+      "sub": ""
+    },
+    {
+      "id": "q4-thu-keynote-perez",
+      "day": "2026-11-12",
+      "start": "17:00",
+      "end": "17:30",
+      "part": "evening",
+      "title": "End-of-Day Keynote",
+      "headline": "",
+      "type": "keynote",
+      "room": "Lantana",
+      "advisors": [
+        {
+          "name": "Rey Perez",
+          "ck": "member",
+          "role": "Keynote"
+        }
+      ],
+      "feature": false,
+      "tag": "Keynote",
+      "sub": ""
+    },
+    {
+      "id": "q4-fri-bible",
+      "day": "2026-11-13",
+      "start": "08:00",
+      "end": "08:45",
+      "part": "morning",
+      "title": "Bible Study",
+      "headline": "",
+      "type": "other",
+      "room": "Carpenter",
+      "advisors": [],
+      "feature": false,
+      "tag": "Morning",
+      "sub": ""
+    },
+    {
+      "id": "q4-fri-special-session",
+      "day": "2026-11-13",
+      "start": "09:30",
+      "end": "12:00",
+      "part": "morning",
+      "title": "Exit Brunch",
+      "headline": "",
+      "type": "meal",
+      "room": "Yellow Rose",
+      "advisors": [],
+      "feature": false,
+      "sub": "Mimosas and a champagne toast to the week",
+      "tag": "Brunch"
+    },
+    {
+      "id": "q4-fri-golf",
+      "day": "2026-11-13",
+      "start": "09:30",
+      "end": "17:00",
+      "part": "morning",
+      "title": "Go golfing",
+      "headline": "",
+      "type": "golf",
+      "room": "Golf Course",
+      "advisors": [
+        {
+          "name": "Paul Mattimoe",
+          "ck": "member",
+          "role": "Golf",
+          "photo": "images/portal-paul-mattimoe.png"
+        },
+        {
+          "name": "David Lucado",
+          "ck": "anniversary",
+          "role": "Golf",
+          "photo": "images/portal-david-lucado.png"
+        }
+      ],
+      "feature": true,
+      "sub": "Lucrative with Lucado",
+      "pair": true,
+      "desc": "Hole-in-one contest and special deals on the course.",
+      "tag": "Golf"
+    },
+    {
+      "id": "q4-wed-night",
+      "day": "2026-11-11",
+      "start": "18:30",
+      "end": "21:30",
+      "part": "evening",
+      "title": "Chairman-Led Dinners",
+      "tag": "Dinner",
+      "sub": "Member to member · Explore the Ritz & Restaurants",
+      "type": "networking",
+      "room": "",
+      "advisors": [],
+      "feature": false,
+      "headline": ""
+    },
+    {
+      "id": "q4-thu-finish-line",
+      "day": "2026-11-12",
+      "start": "18:30",
+      "end": "21:30",
+      "part": "evening",
+      "title": "The Finish Line",
+      "tag": "Liquidity Event",
+      "sub": "Laughing to the Bank",
+      "type": "networking",
+      "room": "Juniper Bar",
+      "advisors": [],
+      "feature": false,
+      "headline": ""
+    }
+  ]
+}
