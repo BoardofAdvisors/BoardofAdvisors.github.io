@@ -359,6 +359,14 @@ footer{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--hair);font-si
 
 /* V145 (MDC: "If you're going to put a dot, it should be two lines."): a sentence ends the line; headlines break at the dot */
 .lane .lhead,.lane .dhti .lhead,.sheet .hd2{white-space:pre-line!important}
+
+/* V146 (MDC, word for word): three-line byline, centered, one line each */
+.hero h1.thesis-head{text-align:center!important;text-wrap:balance}
+.hero h1.thesis-head br{display:inline!important}
+.hero h1.thesis-head span{display:inline!important;white-space:nowrap!important}
+.hero h1.thesis-head .o::before,.hero h1.thesis-head .g::before{content:none!important}
+.hero .tag#dateline-tag{text-align:center!important}
+@media (max-width:600px){.hero h1.thesis-head span{white-space:normal!important}.hero h1.thesis-head{font-size:16px!important}}
 </style>
 </head>
 <body>
@@ -370,7 +378,7 @@ footer{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--hair);font-si
       <div class="hd-ctl"><button type="button" class="refresh" id="refresh" aria-label="Refresh the agenda"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.3-5.7"/><path d="M20 4v5h-5"/></svg><span>Refresh</span></button><span class="updated" id="updated" aria-live="polite"></span></div>
     </div>
     <p class="tag" id="dateline-tag">The Exit Track Agenda</p>
-    <h1 id="hero-head" class="thesis-head">We build Exit Ready CEOs<br><span class="o">Our Proven ExitTrack<sup class="tm">™</sup> Formula</span><br><span class="g">Graduates EXIT CEOs to Advisors</span></h1>
+    <h1 id="hero-head" class="thesis-head"><span class="l1">BA Builds Exit‑Ready CEOs.</span><br><span class="o">Proven EXIT-TRACK Formula.</span><br><span class="g">Graduates EXIT CEOs to Advisors.</span></h1>
     <p class="dateline" id="dateline">BA Q4 Summit 2026 · The Ritz-Carlton Dallas, Las Colinas · Nov 9-13</p>
     <p class="thesis" id="hero-thesis"></p>
     <p class="exitline" id="hero-exit" hidden></p>
@@ -507,7 +515,7 @@ footer{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--hair);font-si
    "promise": "",
    "sub": "",
    "exitLine": "",
-   "head": "We build Exit Ready CEOs / Our Proven ExitTrack™ Formula / Graduates EXIT CEOs to Advisors"
+   "head": "BA Builds Exit‑Ready CEOs. / Proven EXIT-TRACK Formula. / Graduates EXIT CEOs to Advisors."
   },
   "invite": {
    "label": "Make an Invite",
@@ -678,7 +686,7 @@ footer{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--hair);font-si
    }
   ],
   "colorKeyVersion": "V2.00",
-  "dataVersion": "2026-11-08T08:00:39Z",
+  "dataVersion": "2026-11-08T08:03:21Z",
   "sessionCount": 69,
   "ctas": [
    {
