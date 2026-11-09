@@ -396,6 +396,10 @@ footer{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--hair);font-si
 /* V158: wide image head slot + multi-head featured rows (V157 sizes kept) */
 .feat.wide,.feat.multi{grid-template-columns:1fr}.feat .ph.wide{width:100%;aspect-ratio:16/9;max-height:240px;overflow:hidden;border-radius:10px;box-shadow:0 0 0 1px rgba(201,169,97,.45);justify-content:stretch}.feat .ph.wide img{width:100%;height:100%;object-fit:cover;object-position:center;border-radius:0;box-shadow:none;margin:0}.feat .heads{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 4px}.feat .head{display:inline-flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;overflow:hidden;background:var(--navy);box-shadow:0 0 0 2px var(--gold);cursor:pointer;font:700 18px/1 var(--sans);color:var(--gold)}.feat .head img{width:100%;height:100%;object-fit:cover;object-position:top;border-radius:50%;box-shadow:none;margin:0}.feat .head:focus-visible{outline:2px solid var(--cream);outline-offset:2px}
 @media (max-width:600px){.feat .head{width:56px;height:56px;font-size:16px}.feat .ph.wide{max-height:200px}}
+
+/* V159 (MDC on the live page 2026-11-09 via brain 0 G6: "all the headers and all the line items need to be formatted similarly so the eyes can tell it's a new section"): one title size and weight on every row type; past rows differ by color only; the NOW/NEXT title is never smaller than a row */
+.row .ti,.row .s b.ti,.row.muted .s b.ti,.feat .ti,.feat b.ti,.nn b{font-family:var(--sans)!important;font-weight:700!important;font-size:19px!important;line-height:1.25!important}.row.muted .s b.ti{color:var(--muted)!important}.row .fmt,.feat .when .fmt,.nn .nnl{font-size:13px!important}.nn span.w{font-size:16px!important}.row .t b,.row .e b,.feat .when .time{font-size:18px!important}
+@media (max-width:600px){.row .ti,.row .s b.ti,.row.muted .s b.ti,.feat .ti,.feat b.ti,.nn b{font-size:20px!important}.row .fmt,.feat .when .fmt,.nn .nnl{font-size:14px!important}.nn span.w{font-size:14px!important}.row .t b,.row .e b,.feat .when .time{font-size:16px!important}}
 </style>
 </head>
 <body>
